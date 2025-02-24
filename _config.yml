@@ -1,5 +1,5 @@
 baseurl: '/documents-utiles'
-permalink: pretty
+permalink: /:title/
 title: 'Jekyll Serif'
 
 logo:
