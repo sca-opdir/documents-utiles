@@ -28,6 +28,7 @@ collections:
   services:
     output: true
     sort_by: weight
+    permalink: /services/:name/
   team:
     output: true
 
