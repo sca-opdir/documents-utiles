@@ -1,9 +1,14 @@
 baseurl: '/documents-utiles/'
-permalink: /:title/
+permalink: pretty
 title: 'Jekyll Serif'
 
-logo: "images/logo/logo.svg"
-
+logo:
+  mobile: "images/logo/logo-mobile.svg"
+  mobile_height: "32px"
+  mobile_width: "32px"
+  desktop: "images/logo/logo.svg"
+  desktop_height: "32px"
+  desktop_width: "120px"
 
 home: 
   limit_services: 6
@@ -44,5 +49,5 @@ exclude:
   - LICENSE.md
   - LICENSE
   - README.md
-  - jekyll-github-metadata
-
+  
+  
