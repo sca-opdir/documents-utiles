@@ -1,4 +1,14 @@
-url: "https://sca-opdir.github.io"
+name: Documents utiles
+
+# Name of the author
+author: Marie Zufferey
+
+# Short bio or description (displayed in the header)
+description: documents utiles pour l'OPDir
+
+
+url:  https://sca-opdir.github.io/ # http://www.amitmerchant.com/reverie
+enforce_ssl:  https://sca-opdir.github.io/ # https://www.amitmerchant.com/reverie
 baseurl: '/documents-utiles/'
 permalink: pretty
 title: 'Jekyll Serif'
