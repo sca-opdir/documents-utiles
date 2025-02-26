@@ -21,12 +21,10 @@ bodyClass: "page-home"
   </div>
 </div>
 
-
+<h1>Liste des services</h1>
 <ul>
   {% for service in site.services %}
-    <li>{{ service.title }}</li>
-  {% else %}
-    <li>Aucun service trouvé</li>
+    <li>{{ service.title }} - <a href="{{ service.url | relative_url }}">{{ service.url }}</a></li>
   {% endfor %}
 </ul>
 
