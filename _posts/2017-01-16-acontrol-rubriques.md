@@ -1,8 +1,8 @@
 ---
 date: 2025-04-18
-title: Rubriques de contrôle
+title: Acontrol
 categories:
-  - Acontrol
+  - Contrôles
 description: Jekyll template for marketing sites.
 type: Document
 ---
