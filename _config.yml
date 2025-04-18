@@ -74,15 +74,6 @@ defaults:
 # CloudCannon
 
 social_icons:
-  - Facebook
-  - Google Plus
-  - Instagram
-  - LinkedIn
-  - Pinterest
-  - Tumblr
-  - Twitter
-  - YouTube
-  - Email
   - RSS
 
 types:
