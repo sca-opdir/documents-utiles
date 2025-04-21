@@ -7,7 +7,7 @@ description: Rubriques de contrôle.
 type: Document
 ---
 
-## Liste des rubriques Acontrol 
+<h2> Liste des rubriques Acontrol </h2>
 
 * [PDF Rubriques agricoles 2025 FR](<../../fichiers/Rubriques agricoles 2025.pdf>)
 * [PDF Rubriques agricoles 2025 DE](<../../fichiers/Landwirtschaftliche Rubriken 2025.pdf>)
