@@ -2,7 +2,7 @@
 date: 2025-04-18
 title: Acontrol
 categories:
-  - Controles
+  - Contrôles
 description: Rubriques de contrôle.
 type: Document
 ---
