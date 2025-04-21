@@ -2,7 +2,7 @@
 date: 2025-04-18
 title: Biodiversité
 categories:
-  - Autres thèmes
+  - Autres
 description: Biodiversité
 type: Document
 ---
