@@ -3,7 +3,7 @@ date: 2025-04-18
 title: OTerm
 description: Liens concernant l'OTerm
 categories:
-  - paiements directs
+  - Paiements-directs
 type: Document
 ---
 
