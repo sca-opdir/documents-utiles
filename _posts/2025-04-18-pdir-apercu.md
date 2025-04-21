@@ -3,7 +3,7 @@ date: 2025-04-18
 title: OPD
 description: Divers documents généraux sur les PDir
 categories:
-  - paiements-directs
+  - Paiements-directs
 type: Document
 ---
 
