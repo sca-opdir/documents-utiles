@@ -2,7 +2,7 @@
 date: 2025-04-18
 title: Autres docs
 categories:
-  - Contrôles
+  - Controles
 description: Autres documents de sources diverses
 type: Document
 ---
