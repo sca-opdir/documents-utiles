@@ -7,7 +7,7 @@ description: Biodiversité
 type: Document
 ---
 
-<h2>Surfaces de promotion de la biodiversité</h2>
+<h2 id="SPB">Surfaces de promotion de la biodiversité</h2>
 
 <ul>
   <li>
