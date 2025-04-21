@@ -1,0 +1,16 @@
+---
+layout: default
+title: Autres thèmes
+permalink: /category/autres-thèmes/
+---
+
+<h2>Articles de la catégorie : Autres thèmes</h2>
+
+<ul>
+  {% assign controles = site.categories.Autres %}
+  {% for post in controles %}
+    <li>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
