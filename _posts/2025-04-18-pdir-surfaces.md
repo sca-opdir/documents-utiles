@@ -3,7 +3,7 @@ date: 2025-04-18
 title: Surfaces
 description: Autres infos sur les surfaces
 categories:
-  - paiements directs
+  - Paiements-directs
 type: Document
 ---
 
