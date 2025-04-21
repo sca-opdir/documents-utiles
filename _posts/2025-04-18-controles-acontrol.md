@@ -8,7 +8,7 @@ type: Document
 ---
 
 
-<h2>Liste des rubriques Acontrol</h2>
+<h2 id="rubriques">Liste des rubriques Acontrol</h2>
 
 <ul>
   <li><a href="../../fichiers/Rubriques agricoles 2025.pdf" target="_blank">PDF Rubriques agricoles 2025 FR</a> / <a href="../../fichiers/Landwirtschaftliche Rubriken 2025.pdf" target="_blank">DE</a></li>
@@ -19,7 +19,7 @@ type: Document
   <li><a href="../../fichiers/Rubriques_de_contrôles_prioritaires_2025.pdf" target="_blank">PDF Rubriques de contrôle prioritaires 2025 FR</a> / <a href="../../fichiers/Schwerpunktkontrollrubriken 2025.pdf" target="_blank">DE</a></li>
 </ul>
 
-<h2>Anciennes versions</h2>
+<h2 id="old">Anciennes versions</h2>
 
 <ul>
   <li><a href="../../fichiers/Rubriques agricoles 2024.pdf" target="_blank">PDF Rubriques agricoles 2024 FR</a> / <a href="../../fichiers/Landwirtschaftliche Rubriken 2024.pdf" target="_blank">DE</a></li>
