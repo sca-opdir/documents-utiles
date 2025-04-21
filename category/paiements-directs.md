@@ -8,9 +8,12 @@ permalink: /category/paiements-directs/
 
 <ul>
   {% assign controles = site.categories.Paiements-directs %}
+  		{% include listings.html listings=controles %}
+<!--
   {% for post in controles %}
     <li>
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
+-->
 </ul>
