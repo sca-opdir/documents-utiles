@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Autres thèmes
-permalink: /category/autres-thèmes/
+permalink: /category/autres/
 ---
 
-<h2>Articles de la catégorie : Autres thèmes</h2>
+<h2>Articles de la catégorie : Autres</h2>
 
 <ul>
   {% assign controles = site.categories.Autres %}
