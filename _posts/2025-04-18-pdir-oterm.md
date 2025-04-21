@@ -7,6 +7,8 @@ categories:
 type: Document
 ---
 
+<h2 id="lois">Bases légales</h2>
+
 <ul>
   <li>
     <a href="../../fichiers/OTerm 2025 FR.pdf" target="_blank">PDF OTerm 2025 FR</a> avec commentaires / <a href="../../fichiers/OTerm 2025 DE.pdf" target="_blank">DE</a> 
