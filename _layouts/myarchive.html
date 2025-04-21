@@ -9,4 +9,10 @@ layout: default
   {{ page.title | replace: "-", " " }} <span class="count">({{ posts | size }})</span>
 </h2>
 
-{% include listings.html listings=posts %}
+
+
+<ul>
+  {% for post in posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
