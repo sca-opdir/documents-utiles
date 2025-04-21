@@ -1,4 +1,25 @@
 jQuery(function() {
+
+// Génération automatique des liens de la sidebar à partir des <h2>
+const $sidebarList = $('.sidebar ul');
+const $headings = $('.tutorial-content h2[id]');
+
+if ($sidebarList.length && $headings.length) {
+	$headings.each(function() {
+		const $h2 = $(this);
+		const id = $h2.attr('id');
+		const text = $h2.text();
+		const $li = $('<li>');
+		const $a = $('<a>').attr('href', '#' + id).text(text);
+		$li.append($a);
+		$sidebarList.append($li);
+	});
+}
+
+
+
+
+	
 	var $sidebar = $('.sidebar'),
 		$content = $('.content'),
 		$tutorial = $('.tutorial-content'),
@@ -92,3 +113,5 @@ function throttle (callback, limit) {
 		}
 	};
 }
+
+
