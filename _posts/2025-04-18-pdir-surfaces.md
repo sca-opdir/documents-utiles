@@ -7,7 +7,7 @@ categories:
 type: Document
 ---
 
-<h2>Autres infos surfaces</h2>
+<h2 id="OFAG">OFAG</h2>
 
 <ul>
   <li>
