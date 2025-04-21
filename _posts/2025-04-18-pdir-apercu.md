@@ -7,7 +7,7 @@ categories:
 type: Document
 ---
 
-<h2>Autres documents de généralités</h2>
+<h2 id="OFAG">OFAG</h2>
 
 <ul>
   <li>
