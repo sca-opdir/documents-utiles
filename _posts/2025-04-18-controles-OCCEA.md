@@ -2,7 +2,7 @@
 date: 2025-04-18
 title: OCCEA
 categories:
-  - Controles
+  - Contrôles
 description: Ordonnance sur la coordination des contrôles dans les exploitations agricoles
 type: Document
 ---
