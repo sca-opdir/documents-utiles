@@ -7,8 +7,11 @@ description: Ordonnance sur la coordination des contrôles dans les exploitation
 type: Document
 ---
 
-### 2025
+<h2>2025</h2>
 
-* [version FR avec commentaires](../../fichiers/OCCEA_2025.pdf)
-
-* [version DE avec commentaires](../../fichiers/VKKL_2025.pdf)
+<ul>
+  <li>
+    <a href="../../fichiers/OCCEA_2025.pdf" target="_blank">Version FR avec commentaires</a> /
+    <a href="../../fichiers/VKKL_2025.pdf" target="_blank">DE</a>
+  </li>
+</ul>
