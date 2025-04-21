@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contrôles
+title: Paiements-directs
 permalink: /category/paiements-directs/
 ---
 
