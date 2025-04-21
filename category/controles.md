@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contrôles
-permalink: /category/controles/
+permalink: /category/contrôles/
 ---
 
 <h2>Articles de la catégorie : Contrôles</h2>
