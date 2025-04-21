@@ -3,7 +3,7 @@ date: 2025-04-18
 title: Législation VS
 description: Ressources spécifiques au Valais
 categories:
-  - paiements directs
+  - Paiements-directs
 type: Document
 ---
 
