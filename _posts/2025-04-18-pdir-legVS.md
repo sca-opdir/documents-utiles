@@ -1,13 +1,13 @@
 ---
 date: 2025-04-18
-title: Législation VS
+title: Documents VS
 description: Ressources spécifiques au Valais
 categories:
   - Paiements-directs
 type: Document
 ---
 
-<h2>Bases légales cantonales</h2>
+<h2 id="loisVS">Bases légales</h2>
 
 <ul>
   <li>
