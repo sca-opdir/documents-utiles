@@ -2,7 +2,7 @@
 date: 2025-04-18
 title: Domaine OSAV
 categories:
-  - Controles
+  - Contrôles
 description: Liens concernant les domaines de l'OSAV
 type: Document
 ---
