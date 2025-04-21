@@ -1,16 +1,5 @@
 ---
-layout: default
-title: Contrôles
+layout: archive
+title: contrôles
 permalink: /category/controles/
 ---
-
-<h2>Articles de la catégorie : Contrôles</h2>
-
-<ul>
-  {% assign controles = site.categories.Contrôles %}
-  {% for post in controles %}
-    <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
