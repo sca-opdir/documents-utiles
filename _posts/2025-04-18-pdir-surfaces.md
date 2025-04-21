@@ -7,8 +7,11 @@ categories:
 type: Document
 ---
 
-* [PDF catalogue des surfaces 2025](<../../fichiers/Catalogue des surfaces_2025.pdf>) ([page web source OFAG](https://www.blw.admin.ch/fr/paiements-directs-apercu))
+<h2>Autres infos surfaces</h2>
 
-
-
- 
+<ul>
+  <li>
+    <a href="../../fichiers/Catalogue des surfaces_2025.pdf" target="_blank">PDF Catalogue des surfaces 2025</a> 
+    (<a href="https://www.blw.admin.ch/fr/paiements-directs-apercu" target="_blank">page web source OFAG</a>)
+  </li>
+</ul>
