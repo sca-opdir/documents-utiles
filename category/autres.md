@@ -8,9 +8,11 @@ permalink: /category/autres/
 
 <ul>
   {% assign controles = site.categories.Autres %}
-  {% for post in controles %}
+  		{% include listings.html listings=controles %}
+ <!-- {% for post in controles %}
     <li>
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
+-->
 </ul>
