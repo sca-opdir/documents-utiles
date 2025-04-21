@@ -7,6 +7,7 @@ const $headings = $('.tutorial-content h2[id]');
 if ($sidebarList.length && $headings.length) {
 	$headings.each(function() {
 		const $h2 = $(this);
+		$h2.find('.header-link').remove();
 		const id = $h2.attr('id');
 		const text = $h2.text();
 		const $li = $('<li>');
