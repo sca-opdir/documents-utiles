@@ -9,13 +9,13 @@ type: Document
 
 <h2>OPAN</h2>
 
-<h2>Trafic des animaux et santé animale</h2>
+<h2 id="a">Trafic des animaux et santé animale</h2>
 <ul>
   <li><a href="https://www.fedlex.admin.ch/eli/cc/2021/751/fr" target="_blank">OId-BDTA</a> – Ordonnance relative à Identitas SA et à la banque de données sur le trafic des animaux</li>
   <li><a href="https://www.fedlex.admin.ch/eli/cc/2004/592/fr" target="_blank">OMédV</a> – Ordonnance sur les médicaments vétérinaires</li>
 </ul>
 
-<h2>Production primaire</h2>
+<h2 id="b">Production primaire</h2>
 
 <h3>Bases légales</h3>
 <ul>
