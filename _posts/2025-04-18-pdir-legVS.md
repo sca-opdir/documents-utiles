@@ -7,4 +7,10 @@ categories:
 type: Document
 ---
 
-* [PDF OcAgr](../../fichiers/VS_OCAgr_910.100-3-1.fr.pdf) Ordonnance sur l'agriculture et le développement rural
+<h2>Bases légales cantonales</h2>
+
+<ul>
+  <li>
+    <a href="../../fichiers/VS_OCAgr_910.100-3-1.fr.pdf" target="_blank">PDF OcAgr</a> – Ordonnance sur l'agriculture et le développement rural
+  </li>
+</ul>
