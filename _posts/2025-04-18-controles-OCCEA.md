@@ -7,7 +7,7 @@ description: Ordonnance sur la coordination des contrôles dans les exploitation
 type: Document
 ---
 
-<h2>2025</h2>
+<h2 id="2025">2025</h2>
 
 <ul>
   <li>
