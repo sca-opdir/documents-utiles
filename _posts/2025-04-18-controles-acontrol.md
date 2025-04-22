@@ -7,6 +7,9 @@ description: Rubriques de contrôle.
 type: Document
 ---
 
+<h2 id="PC">Points de contrôle</h2>
+
+<a href="../../fichiers/toutes_les_rubriques" target="_blank">PDF tous les points de contrôle</a> 
 
 <h2 id="rubriques">Liste des rubriques Acontrol</h2>
 
