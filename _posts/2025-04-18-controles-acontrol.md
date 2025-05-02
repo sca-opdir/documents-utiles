@@ -9,7 +9,7 @@ type: Document
 
 <h2 id="PC">Points de contrôle</h2>
 
-<a href="../../fichiers/toutes_les_rubriques" target="_blank">PDF tous les points de contrôle</a> 
+<a href="../../fichiers/toutes_les_rubriques.pdf" target="_blank">PDF tous les points de contrôle</a> 
 
 <h2 id="rubriques">Liste des rubriques Acontrol</h2>
 
