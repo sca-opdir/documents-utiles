@@ -1,6 +1,6 @@
 ---
 date: 2025-04-18
-title: OPD
+title: Aperçu
 description: Divers documents généraux sur les PDir
 categories:
   - Paiements-directs
