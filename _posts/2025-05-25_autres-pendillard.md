@@ -26,20 +26,3 @@ type: Document
 <a href="../../fichiers/fiche_technique_pendillard_agridea.pdf" target="_blank">Fiche technique Agridea</a> (<a href="https://www.cnav.ch/File/1478/M%C3%A9thodes%20d'%C3%A9pandage%20r%C3%A9duisant%20les%20%C3%A9missions.pdf" target="_blank">source</a>)
 
 
-
-
-
-<ul>
-  <li>
-    <a href="../../fichiers/contrib_SPB_2025_FR.pdf" target="_blank">PDF Tableau des contributions FR</a> / 
-    <a href="../../fichiers/contrib_SPB_2025_DE.pdf" target="_blank">DE</a> 
-    (<a href="https://www.agrinatur.ch/fr/spb" target="_blank">source FR</a> / 
-    <a href="https://www.agrinatur.ch/bff" target="_blank"> DE</a>)
-  </li>
-  <li>
-    <a href="../../fichiers/exigences_SPB_2025_FR.pdf" target="_blank">PDF Exigences FR</a> / 
-    <a href="../../fichiers/exigences_SPB_2025_DE.pdf" target="_blank">DE</a> 
-    (<a href="https://www.agrinatur.ch/fr/spb" target="_blank">source FR</a> / 
-    <a href="https://www.agrinatur.ch/bff" target="_blank"> DE</a>)
-  </li>
-</ul>
