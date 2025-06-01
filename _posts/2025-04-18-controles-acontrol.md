@@ -22,6 +22,23 @@ type: Document
   <li><a href="../../fichiers/Rubriques_de_contrôles_prioritaires_2025.pdf" target="_blank">PDF Rubriques de contrôle prioritaires 2025 FR</a> / <a href="../../fichiers/Schwerpunktkontrollrubriken 2025.pdf" target="_blank">DE</a></li>
 </ul>
 
+<h2 id="rubriques">Instructions, manuels et directives</h2>
+
+<ul>
+  <li></li>
+</ul>
+
+Instructions Acontrol (<a href="../../fichiers/instructions-acontrol-1erjanvier2025.pdf" target="_blank">version du 1er janvier 2025</a>) - contient les commentaires de l'OCCEA, explication des motifs etc.
+
+Manuel utilisateur Acontrol (<a>version du 10.04.2025</a>)
+
+instructions-acontrol-1erjanvier2025.pdf
+
+manuel-utilisateur-acontrol-10.04.2025.pdf
+
+Manuels et directives OSAV : <a href="https://www.blv.admin.ch/blv/fr/home/tiere/rechts--und-vollzugsgrundlagen/hilfsmittel-und-vollzugsgrundlagen/technische-weisungen.html" target="_blank">lien</a>
+
+
 <h2 id="old">Anciennes versions</h2>
 
 <ul>
