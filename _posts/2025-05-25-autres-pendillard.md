@@ -1,5 +1,5 @@
 ---
-date: 2025-04-18
+date: 2025-07-24
 title: Pendillard
 categories:
   - Autres
@@ -11,7 +11,9 @@ type: Document
 
 <a href="https://www.bafu.admin.ch/bafu/fr/home/themes/air/landwirtschaft/mesures-de-protection-de-lair---agriculture.html" target="_blank">Aide à l'exécution</a> (site web OFEV)
 
-<a href="../../fichiers/aide_execution_OFEV.pdf" target="_blank">Module d'aide à l'exécution PDF</a> 
+Modules d'aide à l'exécution PDF : <a href="../../fichiers/aide_execution_OFEV_éléments_fertilisants.pdf" target="_blank">Éléments fertilisants et utilisation des engrais dans l'agriculture (révision partielle 2021)</a> (p. 26 et suivantes ; motifs de dérogation p. 27) ; <a href="../../fichiers/aide_execution_OFEV.pdf" target="_blank">Constructions rurales et protection de l’environnement (révision partielle 2023)</a> (voir p. 94) 
+
+Ordonnance sur la protection de l'air ([fedlex](https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/fr)) : ch. 5.5.2 Épandage d’engrais de ferme liquides
 
 <a href="../../fichiers/faq_pendillard_FR.pdf" target="_blank">Catalogue de questions sur l'obligation d'utiliser des pendillards</a> (<a href="https://www.fr.ch/sites/default/files/2024-03/catalogue-de-questions-sur-l-obligation-d-utiliser-des-pendillards.pdf" target="_blank">source</a>)
 
