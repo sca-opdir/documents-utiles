@@ -32,4 +32,14 @@ type: Document
     (<a href="https://www.afapi-fipo.ch/fileadmin/mr_afapi_fipo/user_upload/Documents/Prestations/SST-SRPA/Mise_au_paturage_-_MAP/FR-Instructions/Resume_normes_PA_-_SRPA.pdf" target="_blank">source AFAPI</a>)
   </li>
 
+<h2 id="presse">Presse</h2>
+
+<ul>
+  <li>
+    <a href="../../fichiers/agri_SRPA_05-09-2025.pdf" target="_blank">article Agri</a> (05.09.2025) : points d'attention contrôles SRPA 
+  </li>
+</ul>
+
+
+
 </ul>
