@@ -36,7 +36,8 @@ type: Document
 
 <ul>
   <li>
-    <a href="../../fichiers/agri_SRPA_05-09-2025.pdf" target="_blank">article Agri</a> (05.09.2025) : points d'attention contrôles SRPA 
+    <a href="../../fichiers/agri_srpa1_05.09.25.pdf" target="_blank">article Agri</a> (05.09.2025) : points d'attention contrôles SRPA (partie 1)
+    <a href="../../fichiers/agri_srpa2_03.10.25.pdf" target="_blank">article Agri</a> (03.10.2025) : points d'attention contrôles SRPA (partie 2)
   </li>
 </ul>
 
