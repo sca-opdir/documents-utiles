@@ -1,5 +1,5 @@
 ---
-date: 2025-04-18
+date: 2025-11-18
 title: Acontrol
 categories:
   - Contrôles
@@ -9,7 +9,9 @@ type: Document
 
 <h2 id="PC">Points de contrôle</h2>
 
-<a href="../../fichiers/toutes_les_rubriques.pdf" target="_blank">PDF tous les points de contrôle</a> 
+<a href="../../fichiers/rubriques_actives_18-11-2025.pdf" target="_blank">PDF tous les points de contrôle avec statut actif</a> (état au 18.11.2025)
+
+<a href="../../fichiers/toutes_les_rubriques_18-11-2025.pdf" target="_blank">PDF tous les points de contrôle</a> (état au 18.11.2025)
 
 <h2 id="rubriques">Liste des rubriques Acontrol</h2>
 
