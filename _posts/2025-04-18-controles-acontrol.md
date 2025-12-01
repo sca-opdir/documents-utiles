@@ -32,6 +32,28 @@ type: Document
 <li>Manuels et directives OSAV : <a href="https://www.blv.admin.ch/blv/fr/home/tiere/rechts--und-vollzugsgrundlagen/hilfsmittel-und-vollzugsgrundlagen/technische-weisungen.html" target="_blank">lien</a></li>
 </ul>
 
+| N° | Domaines de contrôle                                               | Compétences                                              |
+|----|---------------------------------------------------------------------|-----------------------------------------------------------|
+| 01 | Sécurité alimentaire                                                | OFAG (productions primaire végétale), OSAV (production primaire animale) |
+| 02 | Santé animale                                                       | OSAV                                                      |
+| 03 | Protection des animaux                                              | OSAV                                                      |
+| 04 | Environnement                                                       | OFAG                                                      |
+| 05 | Conditions pour les contributions                                   | OFAG                                                      |
+| 06 | Données sur les structures                                          | OFAG                                                      |
+| 07 | Prestations écologiques requises                                    | OFAG                                                      |
+| 08 | Surfaces de promotion de la biodiversité                            | OFAG                                                      |
+| 09 | Agriculture biologique                                              | OFAG                                                      |
+| 10 | Production de lait et de viande basée sur les herbages              | OFAG                                                      |
+| 11 | Bien-être des animaux                                               | OFAG                                                      |
+| 12 | Efficience des ressources                                           | OFAG                                                      |
+| 13 | Estivage                                                            | OFAG                                                      |
+| 14 | In situ                                                             | OFAG                                                      |
+| 15 | Non-recours aux produits phytosanitaires                            | OFAG                                                      |
+| 16 | Fertilité du sol                                                    | OFAG                                                      |
+| 17 | Mesures en faveur du climat                                         | OFAG                                                      |
+| 18 | Protection des eaux                                                 | OFEV                                                      |
+| 19 | Protection de l'air                                                 | OFEV                                                      |
+
 
 <h2 id="old">Anciennes versions</h2>
 
