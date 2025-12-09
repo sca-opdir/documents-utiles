@@ -7,6 +7,8 @@ description: Ordonnance sur les systèmes d'information dans le domaine de l'agr
 type: Document
 ---
 
+*Ordonnance sur les systèmes d’information dans le domaine de l’agriculture*
+
 <h2 id="2025">2025</h2>
 
 <ul>
