@@ -10,11 +10,9 @@ type: Document
 <h2 id="2026">2026</h2>
 
 <ul>
-  <li>
-    <a href="../../fichiers/VKKL mit Weisungen und Erläuterungen 2026 FR.pdf" target="_blank">PDF FR avec commentaires</a> /
-    <a href="../../fichiers/VKKL mit Weisungen und Erläuterungen 2026 D.pdf" target="_blank">DE</a>
-  </li>
-  <li><a href="https://www.fedlex.admin.ch/eli/oc/2022/751/fr" target="_blank">fedlex FR</a> / <a href="https://www.fedlex.admin.ch/eli/oc/2022/751/de" target="_blank">DE</a></li>
+  <li>PDF avec commentaires <a href="../../fichiers/VKKL mit Weisungen und Erläuterungen 2026 FR.pdf" target="_blank">FR</a> /
+    <a href="../../fichiers/VKKL mit Weisungen und Erläuterungen 2026 D.pdf" target="_blank">DE</a></li>
+  <li>fedlex <a href="https://www.fedlex.admin.ch/eli/oc/2022/751/fr" target="_blank">FR</a> / <a href="https://www.fedlex.admin.ch/eli/oc/2022/751/de" target="_blank">DE</a></li>
 </ul>
 
 
