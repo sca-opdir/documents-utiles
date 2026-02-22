@@ -13,3 +13,6 @@ type: Document
 - [Les 13 points de contrôle relatifs à la protection des eaux](https://themes.agripedia.ch/fr/ist-mein-betrieb-fit-fuer-die-gewaesserschutzkontrolle/)
 
 
+Nombreux liens sur la page Prométerre [Conseils en protection des eaux](https://www.prometerre.ch/actualites/conseils-en-protection-des-eaux)
+
+
