@@ -36,9 +36,10 @@ type: Document
 
 <ul>
   <li>
-    <a href="../../fichiers/agri_srpa1_05.09.25.pdf" target="_blank">article Agri</a> (05.09.2025) : points d'attention contrôles SRPA (partie 1)
-    <a href="../../fichiers/agri_srpa2_03.10.25.pdf" target="_blank">article Agri</a> (03.10.2025) : points d'attention contrôles SRPA (partie 2)
+    <a href="../../fichiers/agri_srpa1_05.09.25.pdf" target="_blank">article Agri</a> (05.09.2025) : points d'attention contrôles SRPA (partie 1)</li>
+    <li><a href="../../fichiers/agri_srpa2_03.10.25.pdf" target="_blank">article Agri</a> (03.10.2025) : points d'attention contrôles SRPA (partie 2)
   </li>
+    <li><a href="../../fichiers/Inspections. Les contrôles sur les exploitations encadrés par des droits et des devoirs _ L'Agri Hebdo.pdf" target="_blank">article Agri</a> (16.01.2026) sur les contrôles agricoles </li>
 </ul>
 
 
