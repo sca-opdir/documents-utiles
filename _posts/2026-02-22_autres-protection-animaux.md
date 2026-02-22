@@ -17,6 +17,13 @@ type: Document
 </ul>
 
 
+<h2 id="SCAV">SCAV</h2>
+
+<ul>
+  <li><a href="../../fichiers/Exemples de manquements en protection des animaux_SCAV.pdf" target="_blank">Exemples niveaux de gravité</a>  </li>
+</ul>
+
+
 <h2 id="presse">Presse</h2>
 
 <ul>
