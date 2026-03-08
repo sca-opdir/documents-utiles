@@ -11,8 +11,8 @@ type: Document
 
 
 <ul>
-  <li>dispositions cantonales : Art. 76a de l'<a href="../../fichiers/VS_OCAgr_910.100-3-1.fr.pdf" target="_blank"> Ordonnance relative à la détermination des espaces réservés aux eaux superficielles des grands cours d'eau</a></li>
-  <li>dispositions fédérales : ORRChim, <a href="https://www.fedlex.admin.ch/eli/cc/2005/478/fr#annex_2_5" target="_blank">Annexe 2.5</a> ; les 50 cm de bande herbeuse au bord des routes sont spécifiés dans la <a href="../../fichiers/bordures_tampon_fiche_information_OFEV_2021.pdf" target="_blank">fiche d'information de l'OFEV</a></li>
+  <li>dispositions cantonales :<a href="../../fichiers/VS_OCAgr_910.100-3-1.fr.pdf" target="_blank"> Ordonnance relative à la détermination des espaces réservés aux eaux superficielles des grands cours d'eau</a></li>
+  <li>dispositions fédérales : article 41a de l'Ordonnance sur la protection des eaux ([OEaux](https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/fr))</li>
 </ul>
 
 
