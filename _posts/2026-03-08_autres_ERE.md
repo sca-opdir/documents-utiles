@@ -22,4 +22,14 @@ type: Document
     <li>FAQ du SCA <a href="https://www.vs.ch/documents/15726774/18619596/ERE+et+agriculture.pdf/0c8ee47e-6861-87e3-bc72-c13e96e1ebe5?t=1703681093815&v=1.0" target="_blank">FR</a>/<a href="https://www.vs.ch/documents/15726774/18619596/Gew%C3%A4sserraum+und+Landwirtschaft.pdf/2cfad390-0235-ea7b-4e4c-c7478c2b6076?t=1703681215823&v=1.0" target="_blank">DE</a></li>
 
   <li>page sur les ERE du <a href="https://www.vs.ch/web/sdana/espace-reserve-aux-eaux" target="_blank">SDANA</a></li>
+  [Merkblatt](https://www.nw.ch/_docn/284603/Merkblatt_Landwirtschaftliche_Bewirtschaftung_des_Gewasserraumes_Version_1_Februar_2022.pdf) du canton de Nidwald (2022)
+
+[Slides](https://www.agriexpert.ch/fileadmin/agriexpertch/04_Services/Fachtagungen/Entschaedigungen/Gewaesserraum_und_Landwirtschaftsland.pdf) agriexpert
+
+[Merkblatt landwirtschaftliche Bewirtschaftung](https://www.ag.ch/media/kanton-aargau/dfr/dokumente/landwirtschaft/ressourcenschutz/180202-gewaesserraum-und-landwirtschaftliche-bewirtschaftung-merkblatt.pdf) et [Merkblatt Ausscheidung der Gewässerräume](https://www.ag.ch/media/kanton-aargau/dfr/dokumente/landwirtschaft/grundlagen-fakten-massnahmen/161220-gewaesserraum-merkblatt.pdf) du canton d'Argovie
+
+[Merkblatt zur Ausscheidung des Gewässerraum](https://www.bernerbauern.ch/wAssets/docs/politik-themen/themen/gewaesserraum/merkblatt-ausscheidung-gewaesserraums.pdf) Berner Bauernverband
+
+[Merkblatt Gewässerraumausscheidung](https://zugerbv.ch/wp-content/uploads/2024/04/Merkblatt-Gewaesserraumausscheidung.pdf) Kanton Zug
+  
 </ul>
