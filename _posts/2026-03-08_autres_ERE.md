@@ -23,6 +23,8 @@ type: Document
 
   <li>page sur les ERE du <a href="https://www.vs.ch/web/sdana/espace-reserve-aux-eaux" target="_blank">SDANA</a></li>
 
+[Guide modulaire](https://www.bpuk.ch/fileadmin/Dokumente/bpuk/public/fr/dokumentation/merkblaetter/FR_Guide_relatif_a_lespace_reserve_aux_eaux_Mise_a_jour_2024.pdf) de la [DTAP](https://www.bpuk.ch/fr/dtap/documentation/notices-dinformation/guide-modulaire-espace-reserve-aux-eaux)
+
 page du [canton de Fribourg](https://www.fr.ch/energie-agriculture-et-environnement/eau/lacs-et-cours-deau/renaturation-des-cours-deau/un-espace-reserve-aux-eaux-pour-les-proteger-et-se-proteger/delimitation-de-lespace-reserve-aux-eaux-faq)
 
 page du [canton de Vaud](https://www.vd.ch/environnement/eaux/espace-reserve-aux-eaux)
