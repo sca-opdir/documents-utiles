@@ -11,6 +11,7 @@ type: Document
 
 
 <ul>
+  <li>page <a href="https://www.agrinatur.ch/fr/conseils/espace-reserve-aux-eaux" target="_blank">Agrinatur</a></li>
   <li>dispositions cantonales :<a href="../../fichiers/VS_OCAgr_910.100-3-1.fr.pdf" target="_blank"> Ordonnance relative à la détermination des espaces réservés aux eaux superficielles des grands cours d'eau</a></li>
   <li>dispositions fédérales : article 41a de l'Ordonnance sur la protection des eaux ([OEaux](https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/fr))</li>
 </ul>
