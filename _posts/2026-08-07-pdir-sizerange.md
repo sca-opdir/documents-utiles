@@ -63,30 +63,46 @@ function openTab(evt, tabName) {
     document.getElementById(tabName).classList.add("active");
     evt.currentTarget.classList.add("active");
 
-    // Redessiner les tables Tabulator pour éviter les bugs d'affichage liés aux onglets cachés
     setTimeout(function() {
         window.dispatchEvent(new Event('resize'));
     }, 50);
 }
 
-// Fonction générique pour charger un tableau Excel/Onglet
+// Fonction générique corrigée pour charger l'en-tête complet et gérer le tri numérique
 function loadExcelTable(filePath, sheetName, selector) {
     fetch(filePath)
         .then(response => response.arrayBuffer())
         .then(data => {
             const workbook = XLSX.read(data, {type: 'array'});
-            const targetSheet = sheetName ? workbook.Sheets[sheetName] : workbook.Sheets[workbook.SheetNames[0]];
+            const targetSheetName = sheetName && workbook.Sheets[sheetName] ? sheetName : workbook.SheetNames[0];
+            const targetSheet = workbook.Sheets[targetSheetName];
+
+            // 1. Lecture brute de la ligne d'en-tête (ligne 1) pour attraper TOUTES les colonnes
+            const rawData = XLSX.utils.sheet_to_json(targetSheet, {header: 1});
+            if (rawData.length === 0) return;
+            const headers = rawData[0]; 
+
+            // 2. Lecture normale des lignes de données
             const jsonData = XLSX.utils.sheet_to_json(targetSheet);
 
-            if (jsonData.length === 0) return;
+            // 3. Détection automatique du type numérique (si les valeurs de la colonne sont majoritairement des nombres)
+            const columns = headers.map(key => {
+                // Vérifie si la première valeur non vide de la colonne est un nombre
+                let sampleValue = jsonData.find(row => row[key] !== undefined && row[key] !== "")?.[key];
+                let isNumeric = !isNaN(sampleValue) && sampleValue !== undefined && typeof sampleValue !== 'string';
 
-            const columns = Object.keys(jsonData[0]).map(key => ({
-                title: key,
-                field: key,
-                headerFilter: "input",
-                headerFilterPlaceholder: "Filtrer...",
-                visible: true
-            }));
+                // Tu peux aussi forcer manuellement des mots-clés dans le nom de la colonne si besoin :
+                // if (key.toLowerCase().includes('montant') || key.toLowerCase().includes('surface')) isNumeric = true;
+
+                return {
+                    title: key,
+                    field: key,
+                    headerFilter: "input",
+                    headerFilterPlaceholder: "Filtrer...",
+                    sorter: isNumeric ? "number" : "string",
+                    visible: true
+                };
+            });
 
             new Tabulator(selector, {
                 data: jsonData,
@@ -105,6 +121,3 @@ loadExcelTable('/documents-utiles/fichiers/stats_surfaces_pdir25_2026-08-05.xlsx
 loadExcelTable('/documents-utiles/fichiers/stats_surfaces_pdir25_2026-08-05.xlsx', 'cat3', '#table-cat3');
 loadExcelTable('/documents-utiles/fichiers/stats_animaux_pdir25_2026-08-05.xlsx', null, '#table-animaux');
 </script>
-
-
-
