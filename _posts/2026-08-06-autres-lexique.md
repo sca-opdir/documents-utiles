@@ -67,7 +67,4 @@ fetch('/documents-utiles/fichiers/agroterm_lexique_complet_22-07-2026.xlsx')
     })
     .catch(error => console.error('Erreur lors du chargement du fichier Excel :', error));
 </script>
-
-
-
 Source : [AgroTerm](https://www.agroterm.ch/), état au 25.07.2026
