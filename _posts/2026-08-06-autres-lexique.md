@@ -1,6 +1,6 @@
 ---
 date: 2026-08-06
-title: Lexique
+title: Lexique agricole FR-DE
 categories:
   - Autres
 description: lexique et traduction de termes agricoles
