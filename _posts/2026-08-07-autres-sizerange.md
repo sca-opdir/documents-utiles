@@ -7,7 +7,6 @@ description: Ordres de grandeur surfaces et animaux
 type: Document
 ---
 
-<!-- TON CODE HTML / JS COMMENCE ICI -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
 <link href="https://unpkg.com/tabulator-tables@5.5.2/dist/css/tabulator.min.css" rel="stylesheet">
 <script type="text/javascript" src="https://unpkg.com/tabulator-tables@5.5.2/dist/js/tabulator.min.js"></script>
@@ -15,7 +14,7 @@ type: Document
 <div id="excel-table" style="margin-top: 20px;"></div>
 
 <script>
-fetch('/documents-utiles/fichiers/agroterm_lexique_complet_22-07-2026.xlsx')
+fetch('/documents-utiles/fichiers/stats_animaux_pdir25_2026-08-07.xlsx')
     .then(response => response.arrayBuffer())
     .then(data => {
         const workbook = XLSX.read(data, {type: 'array'});
@@ -43,4 +42,5 @@ fetch('/documents-utiles/fichiers/agroterm_lexique_complet_22-07-2026.xlsx')
 </script>
 
 
-Source : [AgroTerm](https://www.agroterm.ch/), état au 25.07.2026
+
+
