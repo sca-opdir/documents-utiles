@@ -18,6 +18,11 @@ type: Document
         padding-left: 20px !important;
         padding-right: 20px !important;
     }
+    /* Permet un défilement horizontal propre si le tableau est large */
+    .table-container {
+        width: 100%;
+        overflow-x: auto;
+    }
 </style>
 
 <div style="margin-bottom: 15px; display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -29,7 +34,9 @@ type: Document
     </select>
 </div>
 
-<div id="excel-table" style="width: 100%; margin-top: 10px;"></div>
+<div class="table-container">
+    <div id="excel-table" style="margin-top: 10px;"></div>
+</div>
 
 <script>
 fetch('/documents-utiles/fichiers/agroterm_lexique_complet_22-07-2026.xlsx')
@@ -37,12 +44,18 @@ fetch('/documents-utiles/fichiers/agroterm_lexique_complet_22-07-2026.xlsx')
     .then(data => {
         const workbook = XLSX.read(data, {type: 'array'});
         const worksheet = workbook.Sheets[workbook.SheetNames[0]];
-        const jsonData = XLSX.utils.sheet_to_json(worksheet);
+        
+        // Force la lecture complète en brut pour récupérer TOUTES les colonnes de l'en-tête (ligne 1)
+        const jsonData = XLSX.utils.sheet_to_json(worksheet, {header: 1});
+        const headers = jsonData[0]; // La première ligne contient les vrais noms de colonnes
+        
+        // Convertit les lignes suivantes en objets exploitables
+        const rows = XLSX.utils.sheet_to_json(worksheet);
 
         const defaultVisible = ["fr_terme", "de_terme", "fr_Abréviation", "fr_Définition"];
-        const columnKeys = Object.keys(jsonData[0] || {});
 
-        const columns = columnKeys.map(key => ({
+        // Construit les colonnes à partir de la ligne d'en-tête exacte
+        const columns = headers.map(key => ({
             title: key,
             field: key,
             headerFilter: "input",
@@ -51,17 +64,17 @@ fetch('/documents-utiles/fichiers/agroterm_lexique_complet_22-07-2026.xlsx')
         }));
 
         var table = new Tabulator("#excel-table", {
-            data: jsonData,
-            layout: "fitDataFill", // Empêche Tabulator de supprimer des colonnes arbitrairement
-            responsiveLayout: false, // Désactive le masquage automatique en responsive
+            data: rows,
+            layout: "fitData", // S'adapte à la taille des données pour forcer le scroll horizontal si besoin
+            responsiveLayout: false,
             pagination: "local",
             paginationSize: 25,
             columns: columns,
         });
 
-        // Remplir le menu déroulant avec TOUTES les clés du fichier Excel
+        // Remplit le menu déroulant avec toutes les colonnes détectées
         const selectDropdown = document.getElementById("column-select");
-        columnKeys.forEach(key => {
+        headers.forEach(key => {
             let option = document.createElement("option");
             option.value = key;
             option.textContent = key;
@@ -99,7 +112,6 @@ fetch('/documents-utiles/fichiers/agroterm_lexique_complet_22-07-2026.xlsx')
     })
     .catch(error => console.error('Erreur lors du chargement du fichier Excel :', error));
 </script>
-
 
 
 Source : [AgroTerm](https://www.agroterm.ch/), état au 25.07.2026
