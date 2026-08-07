@@ -11,14 +11,14 @@ type: Document
 <link href="https://unpkg.com/tabulator-tables@5.5.2/dist/css/tabulator.min.css" rel="stylesheet">
 <script type="text/javascript" src="https://unpkg.com/tabulator-tables@5.5.2/dist/js/tabulator.min.js"></script>
 
-<!-- Boutons de contrôle pour afficher/masquer les colonnes -->
-<div style="margin-bottom: 10px;">
-    <button id="btn-show-all" style="padding: 6px 12px; cursor: pointer; margin-right: 10px;">Afficher toutes les colonnes</button>
-    <button id="btn-show-default" style="padding: 6px 12px; cursor: pointer;">Vue simple (par défaut)</button>
+<!-- Boutons de contrôle -->
+<div style="margin-bottom: 15px;">
+    <button id="btn-show-all" style="padding: 8px 14px; cursor: pointer; margin-right: 10px; font-weight: bold;">Afficher toutes les colonnes</button>
+    <button id="btn-show-default" style="padding: 8px 14px; cursor: pointer; font-weight: bold;">Vue simple (par défaut)</button>
 </div>
 
-<!-- Largeur à 100% -->
-<div id="excel-table" style="width: 100%;"></div>
+<!-- Conteneur avec une largeur forcée à 100% pour occuper tout l'espace -->
+<div id="excel-table" style="width: 100%; max-width: 100%; margin-top: 10px;"></div>
 
 <script>
 fetch('/documents-utiles/fichiers/agroterm_lexique_complet_22-07-2026.xlsx')
@@ -28,7 +28,7 @@ fetch('/documents-utiles/fichiers/agroterm_lexique_complet_22-07-2026.xlsx')
         const worksheet = workbook.Sheets[workbook.SheetNames[0]];
         const jsonData = XLSX.utils.sheet_to_json(worksheet);
 
-        // Liste des colonnes par défaut (ajuste l'orthographe si besoin selon ton Excel)
+        // Liste exacte des colonnes par défaut basées sur tes données
         const defaultVisible = ["fr_terme", "de_terme", "fr_Abréviation", "fr_Définition"];
 
         const columns = Object.keys(jsonData[0] || {}).map(key => ({
@@ -36,26 +36,33 @@ fetch('/documents-utiles/fichiers/agroterm_lexique_complet_22-07-2026.xlsx')
             field: key,
             headerFilter: "input",
             headerFilterPlaceholder: "Filtrer...",
+            // On affiche par défaut uniquement si la colonne est dans la liste
             visible: defaultVisible.includes(key)
         }));
 
         var table = new Tabulator("#excel-table", {
             data: jsonData,
-            layout: "fitColumns",
+            layout: "fitColumns", // Répartit l'espace disponible sur les colonnes visibles
             pagination: "local",
-            paginationSize: 25, // Augmenté à 25 lignes par page pour plus de hauteur
+            paginationSize: 25,
             columns: columns,
         });
 
-        // Action du bouton "Afficher tout"
+        // Correction du bouton "Afficher tout"
         document.getElementById("btn-show-all").addEventListener("click", function() {
-            table.showColumn(true); // 'true' permet d'afficher toutes les colonnes d'un coup
+            table.getColumns().forEach(col => col.show());
         });
 
-        // Action du bouton "Vue simple"
+        // Correction du bouton "Vue simple"
         document.getElementById("btn-show-default").addEventListener("click", function() {
-            table.hideColumn(true); // Masque tout d'abord, puis réaffiche uniquement les 4 principales
-            defaultVisible.forEach(col => table.showColumn(col));
+            table.getColumns().forEach(col => {
+                const fieldName = col.getField();
+                if (defaultVisible.includes(fieldName)) {
+                    col.show();
+                } else {
+                    col.hide();
+                }
+            });
         });
     })
     .catch(error => console.error('Erreur lors du chargement du fichier Excel :', error));
