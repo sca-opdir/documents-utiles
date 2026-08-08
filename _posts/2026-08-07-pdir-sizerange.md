@@ -41,6 +41,10 @@ type: Document
 }
 </style>
 
+
+*chiffres 2025*
+
+
 #### SURFACES
 
 <div class="tab-buttons">
@@ -63,7 +67,7 @@ type: Document
 
 <hr>
 
-#### Animaux
+#### ANIMAUX
 
 <div id="table-animaux"></div>
 
