@@ -110,7 +110,7 @@ loadExcel(surfaces, "cat2", "#table-cat2");
 loadExcel(surfaces, "cat3", "#table-cat3");
 
 loadExcel(
-  "/documents-utiles/fichiers/stats_animaux_pdir25_2026-08-05.xlsx",
+  "/documents-utiles/fichiers/stats_animaux_pdir25_2026-08-07.xlsx",
   "animaux",
   "#table-animaux"
 );
