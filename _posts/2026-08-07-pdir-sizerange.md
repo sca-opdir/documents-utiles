@@ -119,5 +119,5 @@ function loadExcelTable(filePath, sheetName, selector) {
 loadExcelTable('/documents-utiles/fichiers/stats_surfaces_pdir25_2026-08-05.xlsx', 'cat1', '#table-cat1');
 loadExcelTable('/documents-utiles/fichiers/stats_surfaces_pdir25_2026-08-05.xlsx', 'cat2', '#table-cat2');
 loadExcelTable('/documents-utiles/fichiers/stats_surfaces_pdir25_2026-08-05.xlsx', 'cat3', '#table-cat3');
-loadExcelTable('/documents-utiles/fichiers/stats_animaux_pdir25_2026-08-05.xlsx', null, '#table-animaux');
+loadExcelTable('/documents-utiles/fichiers/stats_animaux_pdir25_2026-08-05.xlsx', 'animaux', '#table-animaux');
 </script>
