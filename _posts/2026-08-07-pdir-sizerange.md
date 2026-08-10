@@ -42,7 +42,7 @@ type: Document
 </style>
 
 
-*chiffres 2025*
+*chiffres 2025 approximatifs non officiels*
 
 
 #### SURFACES
