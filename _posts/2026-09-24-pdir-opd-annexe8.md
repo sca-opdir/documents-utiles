@@ -79,7 +79,7 @@ annexe 8 « Réduction des paiements directs ».
 <h3 id="2">2 Réduction des contributions octroyées à des exploitations à l’année</h3>
 <h4 id="2-1">2.1 Conditions générales requises pour l’octroi des contributions et des données relatives aux structures</h4>
 <div class="akn-item" id="2-1-1"><span class="akn-num">2.1.1 </span><div class="akn-item-content"><p>Les réductions consistent en des déductions de montants forfaitaires, de montants par unité, d’un pourcentage des contributions concernées ou d’un pourcentage de tous les paiements directs. Si des données visées aux ch. 2.1.5 à 2.1.8 sont corrigées, le versement des contributions a lieu selon les indications correctes.</p></div></div>
-<div class="akn-item" id="2-1-2"><span class="akn-num">2.1.2 </span><div class="akn-item-content"><p>Inscription aux programmes de paiements directs</p></div></div>
+<h5 id="2-1-2">2.1.2  Inscription aux programmes de paiements directs</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -114,7 +114,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-1-3"><span class="akn-num">2.1.3 </span><div class="akn-item-content"><p>Dépôt de la demande</p></div></div>
+<h5 id="2-1-3">2.1.3  Dépôt de la demande</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -149,7 +149,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-1-4"><span class="akn-num">2.1.4 </span><div class="akn-item-content"><p>Contrôle dans l’exploitation</p></div></div>
+<h5 id="2-1-4">2.1.4  Contrôle dans l’exploitation</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -179,7 +179,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-1-5"><span class="akn-num">2.1.5 </span><div class="akn-item-content"><p>Données spécifiques et cultures</p></div></div>
+<h5 id="2-1-5">2.1.5  Données spécifiques et cultures</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -194,7 +194,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-1-6"><span class="akn-num">2.1.6 </span><div class="akn-item-content"><p>Données sur les surfaces et les arbres</p></div></div>
+<h5 id="2-1-6">2.1.6  Données sur les surfaces et les arbres</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -238,7 +238,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-1-7"><span class="akn-num">2.1.7 </span><div class="akn-item-content"><p>Exploitation par l’entreprise</p></div></div>
+<h5 id="2-1-7">2.1.7  Exploitation par l’entreprise</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -286,7 +286,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-1-8"><span class="akn-num">2.1.8 </span><div class="akn-item-content"><p>Indications relatives aux effectifs d’animaux</p></div></div>
+<h5 id="2-1-8">2.1.8  Indications relatives aux effectifs d’animaux</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -326,7 +326,7 @@ annexe 8 « Réduction des paiements directs ».
 <div class="akn-item" id="annex-8-lvl-u1-lvl-2-lvl-2-2-list-u1-bull-u2"><div class="akn-item-content"><p>Somme des points moins 10 points, divisée par 100, et ensuite multipliée par 1000 francs par hectare de SAU de l’exploitation.</p></div></div>
 <div class="akn-item" id="annex-8-lvl-u1-lvl-2-lvl-2-2-list-u1-bull-u3"><div class="akn-item-content"><p>Si la somme des points dus à des cas de récidive est égale ou supérieure à 110, aucun paiement direct n’est versé pendant l’année de contributions.</p></div></div>
 <div class="akn-item" id="annex-8-lvl-u1-lvl-2-lvl-2-2-list-u1-bull-u4"><div class="akn-item-content"><p>Les points attribués en cas de manquement, les montants forfaitaires et les montants par unité sont doublés pour le premier cas de récidive et quadruplés à partir du deuxième cas de récidive.</p></div></div>
-<div class="akn-item" id="2-2-2"><span class="akn-num">2.2.2 </span><div class="akn-item-content"><p>Généralités</p></div></div>
+<h5 id="2-2-2">2.2.2  Généralités</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -343,7 +343,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-2-3"><span class="akn-num">2.2.3 </span><div class="akn-item-content"><p>Documents</p></div></div>
+<h5 id="2-2-3">2.2.3  Documents</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -370,7 +370,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-2-4"><span class="akn-num">2.2.4 </span><div class="akn-item-content"><p>Part appropriée de surfaces de promotion de la biodiversité et inventaires d’importance nationale</p></div></div>
+<h5 id="2-2-4">2.2.4  Part appropriée de surfaces de promotion de la biodiversité et inventaires d’importance nationale</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -389,7 +389,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-2-5"><span class="akn-num">2.2.5 </span><div class="akn-item-content"><p>Bordures tampon</p></div></div>
+<h5 id="2-2-5">2.2.5  Bordures tampon</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -410,7 +410,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-2-6"><span class="akn-num">2.2.6 </span><div class="akn-item-content"><p>Grandes cultures et cultures maraîchères/surface herbagère</p></div></div>
+<h5 id="2-2-6">2.2.6  Grandes cultures et cultures maraîchères/surface herbagère</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -485,7 +485,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-2-7"><span class="akn-num">2.2.7 </span><div class="akn-item-content"><p>Arboriculture</p></div></div>
+<h5 id="2-2-7">2.2.7  Arboriculture</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -501,7 +501,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-2-8"><span class="akn-num">2.2.8 </span><div class="akn-item-content"><p>Culture de petits fruits</p></div></div>
+<h5 id="2-2-8">2.2.8  Culture de petits fruits</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -520,7 +520,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-2-9"><span class="akn-num">2.2.9 </span><div class="akn-item-content"><p>Viticulture</p></div></div>
+<h5 id="2-2-9">2.2.9  Viticulture</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -537,7 +537,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-2-9a"><span class="akn-num">2.2.9a </span><div class="akn-item-content"><p>Pulvérisateurs, ruissellement et dérive</p></div></div>
+<h5 id="2-2-9a">2.2.9a  Pulvérisateurs, ruissellement et dérive</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -562,7 +562,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-2-10"><span class="akn-num">2.2.10 </span><div class="akn-item-content"><p>Projets de développement des PER</p></div></div>
+<h5 id="2-2-10">2.2.10  Projets de développement des PER</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -580,7 +580,7 @@ annexe 8 « Réduction des paiements directs ».
 <div class="akn-item" id="annex-8-lvl-u1-lvl-2-lvl-2-3-bull-u2"><div class="akn-item-content"><p>Somme des points, multipliée par 100 francs par point, mais au minimum 200 francs et, en cas de récidive, au minimum 400 francs.</p></div></div>
 <div class="akn-item" id="annex-8-lvl-u1-lvl-2-lvl-2-3-bull-u3"><div class="akn-item-content"><p>Si la somme des points dus à des cas de récidive est égale ou supérieure à 110, aucun paiement direct n’est versé pendant l’année de contributions.</p></div></div>
 <div class="akn-item" id="annex-8-lvl-u1-lvl-2-lvl-2-3-bull-u4"><div class="akn-item-content"><p>En cas de première infraction, la réduction représente 50 points au maximum pour chaque point de contrôle visé au ch. 2.3.1, let. a à f. Dans les cas particulièrement graves, tels qu’une négligence grave dans la garde des animaux ou si le nombre d’animaux concernés est très élevé, le canton peut majorer le nombre de points maximum de manière appropriée. Il n’y a pas de nombre de points maximum en cas de récidive.</p></div></div>
-<div class="akn-item" id="annex-8-lvl-u1-lvl-2-lvl-2-3-bull-u5"><div class="akn-item-content"><p>Les points attribués en cas de manquement et les montants forfaitaires sont doublés pour le premier cas de récidive et quadruplés à partir du deuxième cas de récidive.</p></div></div>
+<h5 id="annex-8-lvl-u1-lvl-2-lvl-2-3-bull-u5">Les points attribués en cas de manquement et les montants forfaitaires sont doublés pour le premier cas de récidive et quadruplés à partir du deuxième cas de récidive.</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -651,7 +651,7 @@ annexe 8 « Réduction des paiements directs ».
 <h4 id="2-3a">2.3<em>a</em> Protection de l’air</h4>
 <div class="akn-item" id="2-3a-1"><span class="akn-num">2.3<em>a</em>.1 </span><div class="akn-item-content"><p>Les réductions consistent en des déductions de montants forfaitaires et de montant par ha.</p></div></div>
 <div class="akn-item" id="annex-8-lvl-u1-lvl-2-lvl-2-3-a-bull-u2"><div class="akn-item-content"><p>Les montants forfaitaires et les montant par ha sont doublés pour le premier cas de récidive et quadruplés à partir du deuxième cas de récidive.</p></div></div>
-<div class="akn-item" id="annex-8-lvl-u1-lvl-2-lvl-2-3-a-bull-u3"><div class="akn-item-content"><p>Lorsque l’autorité compétente accorde un délai pour l’assainissement des installations de stockage, aucune réduction en vertu de la let. a n’est appliquée si un manquement est constaté au cours de cette période.</p></div></div>
+<h5 id="annex-8-lvl-u1-lvl-2-lvl-2-3-a-bull-u3">Lorsque l’autorité compétente accorde un délai pour l’assainissement des installations de stockage, aucune réduction en vertu de la let. a n’est appliquée si un manquement est constaté au cours de cette période.</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -682,7 +682,7 @@ annexe 8 « Réduction des paiements directs ».
 <div class="akn-item" id="2-4-5a"><span class="akn-num">2.4.5a </span><div class="akn-item-content"><p>Aucune réduction n’est effectuée en cas de renonciation annoncée conformément à l’art. 100<em>a</em>.</p></div></div>
 <div class="akn-item" id="2-4-5b"><span class="akn-num">2.4.5b </span><div class="akn-item-content"><p>Pour les surfaces visées à l’art. 55, al. 5 et 6, les CQ I et CQ II sont réduites à 100 %.</p></div></div>
 <div class="akn-item" id="2-4-5c"><span class="akn-num">2.4.5c </span><div class="akn-item-content"><p>En cas de quantité excessive de plantes posant problème sur des surfaces visées à l’art. 55, al. 1, let. h, i ou k, la réduction des CQ I n’est effectuée que si le manquement est toujours présent après l’échéance du délai fixé pour y remédier.</p></div></div>
-<div class="akn-item" id="2-4-6"><span class="akn-num">2.4.6 </span><div class="akn-item-content"><p>Prairies extensives</p></div></div>
+<h5 id="2-4-6">2.4.6  Prairies extensives</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -707,7 +707,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-4-7"><span class="akn-num">2.4.7 </span><div class="akn-item-content"><p>Prairies peu intensives</p></div></div>
+<h5 id="2-4-7">2.4.7  Prairies peu intensives</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -732,7 +732,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-4-8"><span class="akn-num">2.4.8 </span><div class="akn-item-content"><p>Pâturages extensifs</p></div></div>
+<h5 id="2-4-8">2.4.8  Pâturages extensifs</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -757,7 +757,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-4-9"><span class="akn-num">2.4.9 </span><div class="akn-item-content"><p>Pâturages boisés</p></div></div>
+<h5 id="2-4-9">2.4.9  Pâturages boisés</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -782,7 +782,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-4-10"><span class="akn-num">2.4.10 </span><div class="akn-item-content"><p>Surfaces à litière</p></div></div>
+<h5 id="2-4-10">2.4.10  Surfaces à litière</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -807,7 +807,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-4-11"><span class="akn-num">2.4.11 </span><div class="akn-item-content"><p>Haies, bosquets champêtres et berges boisées</p></div></div>
+<h5 id="2-4-11">2.4.11  Haies, bosquets champêtres et berges boisées</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -832,7 +832,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-4-12"><span class="akn-num">2.4.12 </span><div class="akn-item-content"><p>Prairies riveraines</p></div></div>
+<h5 id="2-4-12">2.4.12  Prairies riveraines</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -849,7 +849,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-4-13"><span class="akn-num">2.4.13 </span><div class="akn-item-content"><p>Jachères florales </p></div></div>
+<h5 id="2-4-13">2.4.13  Jachères florales </h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -866,7 +866,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-4-14"><span class="akn-num">2.4.14 </span><div class="akn-item-content"><p>Jachères tournantes</p></div></div>
+<h5 id="2-4-14">2.4.14  Jachères tournantes</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -883,7 +883,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-4-15"><span class="akn-num">2.4.15 </span><div class="akn-item-content"><p>Bandes culturales extensives</p></div></div>
+<h5 id="2-4-15">2.4.15  Bandes culturales extensives</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -900,7 +900,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-4-16"><span class="akn-num">2.4.16 </span><div class="akn-item-content"><p>Ourlet sur terres assolées </p></div></div>
+<h5 id="2-4-16">2.4.16  Ourlet sur terres assolées </h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -917,7 +917,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-4-17"><span class="akn-num">2.4.17 </span><div class="akn-item-content"><p>Arbres fruitiers haute-tige</p></div></div>
+<h5 id="2-4-17">2.4.17  Arbres fruitiers haute-tige</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -943,7 +943,7 @@ annexe 8 « Réduction des paiements directs ».
 </table>
 </div>
 <div class="akn-item" id="2-4-18"><span class="akn-num">2.4.18 </span><div class="akn-item-content"><p>… </p></div></div>
-<div class="akn-item" id="2-4-19"><span class="akn-num">2.4.19 </span><div class="akn-item-content"><p>Surfaces viticoles présentant une biodiversité naturelle</p></div></div>
+<h5 id="2-4-19">2.4.19  Surfaces viticoles présentant une biodiversité naturelle</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -966,7 +966,7 @@ annexe 8 « Réduction des paiements directs ».
 </div>
 <div class="akn-item" id="2-4-20"><span class="akn-num">2.4.20 </span><div class="akn-item-content"><p>…</p></div></div>
 <div class="akn-item" id="2-4-21"><span class="akn-num">2.4.21 </span><div class="akn-item-content"><p>…</p></div></div>
-<div class="akn-item" id="2-4-22"><span class="akn-num">2.4.22 </span><div class="akn-item-content"><p>Fossés humides, mares, étangs</p></div></div>
+<h5 id="2-4-22">2.4.22  Fossés humides, mares, étangs</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -979,7 +979,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-4-23"><span class="akn-num">2.4.23 </span><div class="akn-item-content"><p>Surfaces rudérales, tas d’épierrage et affleurements rocheux</p></div></div>
+<h5 id="2-4-23">2.4.23  Surfaces rudérales, tas d’épierrage et affleurements rocheux</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -992,7 +992,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-4-24"><span class="akn-num">2.4.24 </span><div class="akn-item-content"><p>Murs de pierres sèches</p></div></div>
+<h5 id="2-4-24">2.4.24  Murs de pierres sèches</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -1016,7 +1016,7 @@ annexe 8 « Réduction des paiements directs ».
 <div class="akn-item" id="annex-8-lvl-u1-lvl-2-lvl-2-5-a-list-u1-bull-u5"><div class="akn-item-content"><p>Si, en additionnant les points de pénalité concernant l’agriculture biologique (ch. 2.5a.2 à 2.5a.10) et les PER (ch. 2.2) ainsi que 25 % des points dans le domaine des SRPA et de la contribution à la mise au pâturage (ch. 2.9.4 à 2.9.5), on obtient 110 points ou plus, aucune contribution n’est versée pour l’agriculture biologique pendant l’année de contributions concernée.</p></div></div>
 <div class="akn-item" id="annex-8-lvl-u1-lvl-2-lvl-2-5-a-list-u1-bull-u6"><div class="akn-item-content"><p>Dans tous les cas, cependant, les réductions ne peuvent être appliquées que dans la limite du montant des contributions pour l’agriculture biologique.</p></div></div>
 <div class="akn-item" id="annex-8-lvl-u1-lvl-2-lvl-2-5-a-list-u1-bull-u7"><div class="akn-item-content"><p>Dans le premier cas de récidive, les points et les montants forfaitaires sont doublés. À partir du deuxième cas de récidive, ils sont multipliés par quatre. Ces dispositions ne s’appliquent pas aux ch. 2.5a.3, let. g, et 2.5a.10.</p></div></div>
-<div class="akn-item" id="2-5a-2"><span class="akn-num">2.5a.2 </span><div class="akn-item-content"><p>Généralités</p></div></div>
+<h5 id="2-5a-2">2.5a.2  Généralités</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -1049,7 +1049,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-5a-3"><span class="akn-num">2.5a.3 </span><div class="akn-item-content"><p>Production végétale</p></div></div>
+<h5 id="2-5a-3">2.5a.3  Production végétale</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -1135,7 +1135,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-5a-4"><span class="akn-num">2.5a.4 </span><div class="akn-item-content"><p>Semences et plants</p></div></div>
+<h5 id="2-5a-4">2.5a.4  Semences et plants</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -1169,7 +1169,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-5a-5"><span class="akn-num">2.5a.5 </span><div class="akn-item-content"><p>Cultures spéciales, champignons, cueillette sauvage</p></div></div>
+<h5 id="2-5a-5">2.5a.5  Cultures spéciales, champignons, cueillette sauvage</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -1195,7 +1195,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-5a-6"><span class="akn-num">2.5a.6 </span><div class="akn-item-content"><p>Garde des animaux/Élevage: généralités</p></div></div>
+<h5 id="2-5a-6">2.5a.6  Garde des animaux/Élevage: généralités</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -1305,7 +1305,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-5a-7"><span class="akn-num">2.5a.7 </span><div class="akn-item-content"><p>Garde des animaux/Élevage: exigences spécifiques aux porcs</p></div></div>
+<h5 id="2-5a-7">2.5a.7  Garde des animaux/Élevage: exigences spécifiques aux porcs</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -1330,7 +1330,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-5a-8"><span class="akn-num">2.5a.8 </span><div class="akn-item-content"><p>Garde des animaux/Élevage: exigences spécifiques à la volaille</p></div></div>
+<h5 id="2-5a-8">2.5a.8  Garde des animaux/Élevage: exigences spécifiques à la volaille</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -1355,7 +1355,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-5a-9"><span class="akn-num">2.5a.9 </span><div class="akn-item-content"><p>Garde des animaux/Élevage: exigences spécifiques aux autres espèces animales</p></div></div>
+<h5 id="2-5a-9">2.5a.9  Garde des animaux/Élevage: exigences spécifiques aux autres espèces animales</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -1384,7 +1384,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-5a-10"><span class="akn-num">2.5a.10 </span><div class="akn-item-content"><p>Estivage bio, transhumance</p></div></div>
+<h5 id="2-5a-10">2.5a.10  Estivage bio, transhumance</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -1406,7 +1406,7 @@ annexe 8 « Réduction des paiements directs ».
 <div class="akn-item" id="annex-8-lvl-u1-lvl-2-lvl-2-6-list-u1-bull-u2"><div class="akn-item-content"><p>Dans le premier cas de récidive, la réduction est doublée. À partir du deuxième cas de récidive, la réduction est quadruplée.</p></div></div>
 <div class="akn-item" id="annex-8-lvl-u1-lvl-2-lvl-2-6-list-u1-bull-u3"><div class="akn-item-content"><p>Lorsque plusieurs manquements sont constatés simultanément pour la même surface, les réductions ne sont pas cumulées.</p></div></div>
 <div class="akn-item" id="annex-8-lvl-u1-lvl-2-lvl-2-6-list-u1-bull-u4"><div class="akn-item-content"><p>Si, pendant la période d’engagement de quatre ans, l’inscription d’une surface est interrompue conformément à l’art. 100, al. 3, aucune contribution n’est versée pendant l’année de contributions concernée. À partir de la deuxième désinscription pendant la même période d’engagement, cette interruption est considérée comme un premier manquement aux conditions et charges.</p></div></div>
-<div class="akn-item" id="2-6-2"><span class="akn-num">2.6.2 </span><div class="akn-item-content"><p>Contribution pour le non-recours aux produits phytosanitaires dans les grandes cultures</p></div></div>
+<h5 id="2-6-2">2.6.2  Contribution pour le non-recours aux produits phytosanitaires dans les grandes cultures</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -1419,7 +1419,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-6-3"><span class="akn-num">2.6.3 </span><div class="akn-item-content"><p>Contribution pour le non-recours aux insecticides et aux acaricides dans les cultures maraîchères et les cultures de petits fruits</p></div></div>
+<h5 id="2-6-3">2.6.3  Contribution pour le non-recours aux insecticides et aux acaricides dans les cultures maraîchères et les cultures de petits fruits</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -1432,7 +1432,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-6-4"><span class="akn-num">2.6.4 </span><div class="akn-item-content"><p>Contribution pour le non-recours aux insecticides, aux acaricides et aux fongicides dans les cultures pérennes après la floraison</p></div></div>
+<h5 id="2-6-4">2.6.4  Contribution pour le non-recours aux insecticides, aux acaricides et aux fongicides dans les cultures pérennes après la floraison</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -1445,7 +1445,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-6-5"><span class="akn-num">2.6.5 </span><div class="akn-item-content"><p>Contribution pour l’exploitation de surfaces de cultures pérennes à l’aide d’intrants conformes à l’agriculture biologique</p></div></div>
+<h5 id="2-6-5">2.6.5  Contribution pour l’exploitation de surfaces de cultures pérennes à l’aide d’intrants conformes à l’agriculture biologique</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -1458,7 +1458,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-6-6"><span class="akn-num">2.6.6 </span><div class="akn-item-content"><p>Contribution pour le non-recours aux herbicides dans les grandes cultures et les cultures spéciales</p></div></div>
+<h5 id="2-6-6">2.6.6  Contribution pour le non-recours aux herbicides dans les grandes cultures et les cultures spéciales</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -1474,7 +1474,7 @@ annexe 8 « Réduction des paiements directs ».
 <h4 id="2-7">2.7 Contribution pour la biodiversité fonctionnelle: contribution pour les bandes semées pour organismes utiles</h4>
 <div class="akn-item" id="annex-8-lvl-u1-lvl-2-lvl-2-7-bull-u1"><div class="akn-item-content"><p>Les réductions représentent un pourcentage de la contribution pour les bandes semées pour organismes utiles pour la surface concernée. </p></div></div>
 <div class="akn-item" id="annex-8-lvl-u1-lvl-2-lvl-2-7-bull-u2"><div class="akn-item-content"><p>Dans le premier cas de récidive, la réduction est doublée. À partir du deuxième cas de récidive, la réduction est quadruplée.</p></div></div>
-<div class="akn-item" id="annex-8-lvl-u1-lvl-2-lvl-2-7-bull-u3"><div class="akn-item-content"><p>Lorsque plusieurs manquements sont constatés simultanément pour la même surface, les réductions ne sont pas cumulées.</p></div></div>
+<h5 id="annex-8-lvl-u1-lvl-2-lvl-2-7-bull-u3">Lorsque plusieurs manquements sont constatés simultanément pour la même surface, les réductions ne sont pas cumulées.</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -1491,7 +1491,7 @@ annexe 8 « Réduction des paiements directs ».
 <div class="akn-item" id="2-7a-1"><span class="akn-num">2.7a.1 </span><div class="akn-item-content"><p>Les réductions ont lieu via un pourcentage des contributions pour l’amélioration de la fertilité du sol pour la surface concernée.</p></div></div>
 <div class="akn-item" id="annex-8-lvl-u1-lvl-2-lvl-2-7-a-list-u1-bull-u2"><div class="akn-item-content"><p>Dans le premier cas de récidive, la réduction est doublée. À partir du deuxième cas de récidive, la réduction est quadruplée.</p></div></div>
 <div class="akn-item" id="annex-8-lvl-u1-lvl-2-lvl-2-7-a-list-u1-bull-u3"><div class="akn-item-content"><p>Lorsque plusieurs manquements sont constatés simultanément pour la même surface, les réductions ne sont pas cumulées.</p></div></div>
-<div class="akn-item" id="2-7a-2"><span class="akn-num">2.7a.2 </span><div class="akn-item-content"><p>Contribution pour une couverture appropriée du sol</p></div></div>
+<h5 id="2-7a-2">2.7a.2  Contribution pour une couverture appropriée du sol</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -1504,7 +1504,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-7a-3"><span class="akn-num">2.7a.3 </span><div class="akn-item-content"><p>Contribution pour des techniques culturales préservant le sol dans les cultures principales sur terres assolées</p></div></div>
+<h5 id="2-7a-3">2.7a.3  Contribution pour des techniques culturales préservant le sol dans les cultures principales sur terres assolées</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -1519,7 +1519,7 @@ annexe 8 « Réduction des paiements directs ».
 </div>
 <h4 id="2-7b">2.7b Contribution pour des mesures en faveur du climat: contribution pour une utilisation efficiente de l’azote</h4>
 <div class="akn-item" id="annex-8-lvl-u1-lvl-2-lvl-2-7-b-bull-u1"><div class="akn-item-content"><p>Les réductions représentent un pourcentage de la contribution pour une utilisation efficiente de l’azote pour la surface concernée. </p></div></div>
-<div class="akn-item" id="annex-8-lvl-u1-lvl-2-lvl-2-7-b-bull-u2"><div class="akn-item-content"><p>Dans le premier cas de récidive, la réduction est doublée. À partir du deuxième cas de récidive, la réduction est quadruplée.</p></div></div>
+<h5 id="annex-8-lvl-u1-lvl-2-lvl-2-7-b-bull-u2">Dans le premier cas de récidive, la réduction est doublée. À partir du deuxième cas de récidive, la réduction est quadruplée.</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -1534,7 +1534,7 @@ annexe 8 « Réduction des paiements directs ».
 </div>
 <h4 id="2-7c">2.7c Contribution pour la production de lait et de viande basée sur les herbages </h4>
 <div class="akn-item" id="annex-8-lvl-u1-lvl-2-lvl-2-7-c-bull-u1"><div class="akn-item-content"><p>Les réductions représentent soit un montant forfaitaire, soit un pourcentage des contributions pour la production de lait et de viande basée sur les herbages pour la totalité de la surface herbagère de l’exploitation. </p></div></div>
-<div class="akn-item" id="annex-8-lvl-u1-lvl-2-lvl-2-7-c-bull-u2"><div class="akn-item-content"><p>Dans le premier cas de récidive, la réduction est doublée. À partir du deuxième cas de récidive, la réduction est quadruplée.</p></div></div>
+<h5 id="annex-8-lvl-u1-lvl-2-lvl-2-7-c-bull-u2">Dans le premier cas de récidive, la réduction est doublée. À partir du deuxième cas de récidive, la réduction est quadruplée.</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -1564,7 +1564,7 @@ annexe 8 « Réduction des paiements directs ».
 <div class="akn-item" id="2-9-2d"><span class="akn-num">2.9.2d </span><div class="akn-item-content"><p>Si les sorties n’ont pas eu lieu selon la documentation visée au ch. 2.9.3, let. r, mais qu’elles peuvent être prouvées de manière crédible, aucune réduction visée au ch. 2.9.3, let. p, n’est appliquée.</p></div></div>
 <div class="akn-item" id="2-9-2e"><span class="akn-num">2.9.2e </span><div class="akn-item-content"><p>Si la documentation des sorties visée au ch. 2.9.5, let. d, manque ou que les sorties ont eu lieu selon la documentation, mais qu’elles ne peuvent pas être prouvées de manière crédible, une réduction de 60 points est opérée pour la catégorie d’animaux concernée.</p></div></div>
 <div class="akn-item" id="2-9-2f"><span class="akn-num">2.9.2f </span><div class="akn-item-content"><p>Si les sorties n’ont pas eu lieu selon la documentation visée au ch. 2.9.5, let. d, mais qu’elles peuvent être prouvées de manière crédible, aucune réduction visée au ch. 2.9.5, let. e, n’est appliquée.</p></div></div>
-<div class="akn-item" id="2-9-3"><span class="akn-num">2.9.3 </span><div class="akn-item-content"><p>SST</p></div></div>
+<h5 id="2-9-3">2.9.3  SST</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -1690,7 +1690,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-9-4"><span class="akn-num">2.9.4 </span><div class="akn-item-content"><p>SRPA</p></div></div>
+<h5 id="2-9-4">2.9.4  SRPA</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -1785,7 +1785,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-9-5"><span class="akn-num">2.9.5 </span><div class="akn-item-content"><p>Contribution à la mise au pâturage pour les bovins et les buffles d’Asie</p></div></div>
+<h5 id="2-9-5">2.9.5  Contribution à la mise au pâturage pour les bovins et les buffles d’Asie</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -1836,7 +1836,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-9-6"><span class="akn-num">2.9.6 </span><div class="akn-item-content"><p>Projets de développement des dispositions concernant les contributions au bien-être des animaux</p></div></div>
+<h5 id="2-9-6">2.9.6  Projets de développement des dispositions concernant les contributions au bien-être des animaux</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -1858,7 +1858,7 @@ annexe 8 « Réduction des paiements directs ».
 <h4 id="2-10">2.10 Contributions à l’utilisation efficiente des ressources</h4>
 <div class="akn-item" id="2-10-1"><span class="akn-num">2.10.1 </span><div class="akn-item-content"><p>Les réductions ont lieu au moyen de déductions de montants forfaitaires ou via un pourcentage des contributions à l’utilisation efficiente des ressources.</p></div></div>
 <div class="akn-item" id="annex-8-lvl-u1-lvl-2-lvl-2-10-list-u1-bull-u2"><div class="akn-item-content"><p>Dans le premier cas de récidive, la réduction est doublée. À partir du deuxième cas de récidive, la réduction est quadruplée.</p></div></div>
-<div class="akn-item" id="2-10-2"><span class="akn-num">2.10.2 </span><div class="akn-item-content"><p>Utilisation de techniques d’application précise</p></div></div>
+<h5 id="2-10-2">2.10.2  Utilisation de techniques d’application précise</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -1875,7 +1875,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="2-10-3"><span class="akn-num">2.10.3 </span><div class="akn-item-content"><p>Contribution pour l’alimentation biphase des porcs appauvrie en matière azotée</p></div></div>
+<h5 id="2-10-3">2.10.3  Contribution pour l’alimentation biphase des porcs appauvrie en matière azotée</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -1906,7 +1906,7 @@ annexe 8 « Réduction des paiements directs ».
 <h4 id="3-1">3.1 Généralités</h4>
 <div class="akn-item" id="3-1-1"><span class="akn-num">3.1.1 </span><div class="akn-item-content"><p>Les contributions d’estivage sont réduites selon les ch. 3.2 à 3.6. Les contributions d’estivage pour les moutons (brebis laitières exceptées) en cas de surveillance permanente par un berger ou dans le cas des pâturages tournants sont réduites selon le ch. 3.7. Les contributions versées dans la région d’estivage sont toutes réduites selon le ch. 3.10.</p></div></div>
 <h4 id="3-2">3.2 Fausses indications</h4>
-<div class="akn-item" id="3-2-1"><span class="akn-num">3.2.1 </span><div class="akn-item-content"><p>Fausses indications concernant les animaux (art. 36, 37 et 98)</p></div></div>
+<h5 id="3-2-1">3.2.1  Fausses indications concernant les animaux (art. 36, 37 et 98)</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -1930,7 +1930,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="3-2-2"><span class="akn-num">3.2.2 </span><div class="akn-item-content"><p>Fausses indications concernant les surfaces (art. 38 et 98)</p></div></div>
+<h5 id="3-2-2">3.2.2  Fausses indications concernant les surfaces (art. 38 et 98)</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -1953,7 +1953,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="3-2-3"><span class="akn-num">3.2.3 </span><div class="akn-item-content"><p>Fausses indications concernant la durée d’estivage (art. 36, 37 et 98)</p></div></div>
+<h5 id="3-2-3">3.2.3  Fausses indications concernant la durée d’estivage (art. 36, 37 et 98)</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -2034,7 +2034,7 @@ annexe 8 « Réduction des paiements directs ».
 <h4 id="3-6">3.6 Exigences en matière d’exploitation</h4>
 <div class="akn-item" id="3-6-1"><span class="akn-num">3.6.1 </span><div class="akn-item-content"><p>Dans le premier cas de récidive, la réduction est doublée. À partir du deuxième cas de récidive, il s’ensuit une exclusion des contributions.</p></div></div>
 <div class="akn-item" id="3-6-2"><span class="akn-num">3.6.2 </span><div class="akn-item-content"><p>Si la réduction en raison d’une observation seulement partielle des exigences concernant l’exploitation n’est pas supérieure à 10 %, seule une réduction de 5 % est effectuée.</p></div></div>
-<div class="akn-item" id="3-6-3"><span class="akn-num">3.6.3 </span><div class="akn-item-content"><p>Pour les premiers manquements ci-après, la réduction des contributions d’estivage s’élève par point de contrôle à 200 francs au moins et à 3000 francs au plus. La limite de 3000 francs ne s’applique pas en cas de récidive.</p></div></div>
+<h5 id="3-6-3">3.6.3  Pour les premiers manquements ci-après, la réduction des contributions d’estivage s’élève par point de contrôle à 200 francs au moins et à 3000 francs au plus. La limite de 3000 francs ne s’applique pas en cas de récidive.</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -2123,7 +2123,7 @@ annexe 8 « Réduction des paiements directs ».
 <div class="akn-item" id="3-7-1"><span class="akn-num">3.7.1 </span><div class="akn-item-content"><p>Les réductions sont doublées lors de la première récidive. À partir de la deuxième récidive, la conséquence est la suppression de la contribution.</p></div></div>
 <div class="akn-item" id="3-7-2"><span class="akn-num">3.7.2 </span><div class="akn-item-content"><p>Si la réduction en raison d’une observation seulement partielle des exigences concernant l’exploitation n’est pas supérieure à 10 %, seule une réduction de 5 % est effectuée.</p></div></div>
 <div class="akn-item" id="3-7-3"><span class="akn-num">3.7.3 </span><div class="akn-item-content"><p>La réduction lors des premiers manquements ci-après s’élève pour chaque point de contrôle à 200 francs au minimum et à 3000 francs au maximum. La limite de 3000 francs ne s’applique pas en cas de récidive.</p></div></div>
-<div class="akn-item" id="3-7-4"><span class="akn-num">3.7.4 </span><div class="akn-item-content"><p>Observation partielle des exigences concernant la surveillance permanentes des moutons par un berger</p></div></div>
+<h5 id="3-7-4">3.7.4  Observation partielle des exigences concernant la surveillance permanentes des moutons par un berger</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -2184,7 +2184,7 @@ annexe 8 « Réduction des paiements directs ».
 </tr>
 </table>
 </div>
-<div class="akn-item" id="3-7-5"><span class="akn-num">3.7.5 </span><div class="akn-item-content"><p>Observation partielle des exigences concernant le pâturage tournant des moutons</p></div></div>
+<h5 id="3-7-5">3.7.5  Observation partielle des exigences concernant le pâturage tournant des moutons</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -2236,7 +2236,7 @@ annexe 8 « Réduction des paiements directs ».
 <div class="akn-item" id="3-7-6"><span class="akn-num">3.7.6 </span><div class="akn-item-content"><p>…</p></div></div>
 <h4 id="3-7a">3.7a Exigences d’exploitation pour les mesures individuelles de protection des troupeaux</h4>
 <div class="akn-item" id="3-7a-1"><span class="akn-num">3.7a.1 </span><div class="akn-item-content"><p>Les réductions sont doublées en cas de récidive.</p></div></div>
-<div class="akn-item" id="3-7a-2"><span class="akn-num">3.7a.2 </span><div class="akn-item-content"><p>Respect incomplet de la stratégie individuelle de protection des troupeaux</p></div></div>
+<h5 id="3-7a-2">3.7a.2  Respect incomplet de la stratégie individuelle de protection des troupeaux</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
@@ -2254,7 +2254,7 @@ annexe 8 « Réduction des paiements directs ».
 </table>
 </div>
 <h4 id="3-8">3.8 Contributions à la biodiversité pour les surfaces herbagères et les surfaces à litière riches en espèces dans la région d’estivage</h4>
-<div class="akn-item" id="annex-8-lvl-u1-lvl-3-lvl-3-8-list-u1-lbl-tab"><div class="akn-item-content"><p>3.8.1</p></div></div>
+<h5 id="annex-8-lvl-u1-lvl-3-lvl-3-8-list-u1-lbl-tab">3.8.1</h5>
 <div class="fedlex-table-wrapper">
 <table class="fedlex-table">
 <tr>
