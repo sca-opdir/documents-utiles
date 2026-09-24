@@ -5,6 +5,7 @@ description: Schémas de réduction de l'annexe 8
 categories:
   - Paiements-directs
 type: Document
+sidebar_deep: true
 ---
 
 <style>
