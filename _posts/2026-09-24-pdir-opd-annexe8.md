@@ -49,7 +49,7 @@ type: Document
   padding: 1rem;
   border-left: 4px solid #777;
 }
-
+</style>
 
 <div class="source-opd">
 <strong>Source :</strong>
