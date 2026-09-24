@@ -49,6 +49,45 @@ type: Document
   padding: 1rem;
   border-left: 4px solid #777;
 }
+
+	.annexe-toc {
+  margin: 2rem 0;
+  padding: 1rem 1.25rem;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+}
+
+.annexe-toc summary {
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.annexe-toc nav {
+  margin-top: 1rem;
+}
+
+.annexe-toc ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 1.3rem;
+}
+
+.annexe-toc > nav > ul {
+  padding-left: 0;
+}
+
+.annexe-toc li {
+  margin: 0.35rem 0;
+}
+
+.annexe-toc a {
+  text-decoration: none;
+}
+
+.annexe-toc a:hover {
+  text-decoration: underline;
+}
 </style>
 
 <div class="source-opd">
@@ -58,6 +97,12 @@ versés dans l’agriculture (OPD; RS 910.13),
 annexe 8 « Réduction des paiements directs ».
 État au 1<sup>er</sup> janvier 2026.
 </div>
+
+<details class="annexe-toc">
+  <summary>Sommaire de l'annexe 8</summary>
+
+  <nav id="annexe-toc"></nav>
+</details>
 
 <p>(art. 105, al. 1, 115<em>a</em>, al. 1 et 2, 115<em>c</em>, al. 2, 115<em>f</em>, al. 2, 115<em>g</em>, al. 2, et 115<em>i</em>, al. 1, 2, 4 et 5)</p>
 <h2 id="annex-8-lvl-u1">Réduction des paiements directs</h2>
@@ -2279,3 +2324,82 @@ annexe 8 « Réduction des paiements directs ».
 <div class="akn-item" id="3-10-2"><span class="akn-num">3.10.2 </span><div class="akn-item-content"><p>Lors de la première infraction, la réduction s’élève à 200 francs. À partir du premier cas de récidive, la réduction est de 25 % de toutes les contributions en région d’estivage, mais au maximum de 2500 francs.</p></div></div>
 <div class="akn-item" id="3-10-3"><span class="akn-num">3.10.3 </span><div class="akn-item-content"><p>En cas d’infractions particulièrement graves, le canton peut augmenter la réduction de manière appropriée.</p></div></div>
 <div class="akn-item" id="3-10-4"><span class="akn-num">3.10.4 </span><div class="akn-item-content"><p>En cas de première infraction aux dispositions de protection des animaux relevant des constructions, le canton peut renoncer à effectuer une réduction si le service vétérinaire cantonal a fixé un délai pour remédier au manquement.</p></div></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+  const toc = document.getElementById("annexe-toc");
+
+  if (!toc) return;
+
+  const headings = document.querySelectorAll(
+    ".content h2[id], .content h3[id], .content h4[id], .content h5[id]"
+  );
+
+  const ul = document.createElement("ul");
+  ul.className = "toc-list";
+
+  let currentLists = { 2: ul };
+
+  headings.forEach(function (heading) {
+
+    const level = parseInt(
+      heading.tagName.substring(1),
+      10
+    );
+
+    const li = document.createElement("li");
+
+    const a = document.createElement("a");
+    a.href = "#" + heading.id;
+    a.textContent = heading.textContent.trim();
+
+    li.appendChild(a);
+
+    if (level === 2) {
+
+      ul.appendChild(li);
+      currentLists = { 2: ul };
+
+    } else {
+
+      let parentLevel = level - 1;
+
+      while (
+        parentLevel >= 2 &&
+        !currentLists[parentLevel]
+      ) {
+        parentLevel--;
+      }
+
+      const parentList = currentLists[parentLevel] || ul;
+
+      let parentLi = parentList.lastElementChild;
+
+      if (!parentLi) {
+        ul.appendChild(li);
+        return;
+      }
+
+      let nestedUl = parentLi.querySelector(":scope > ul");
+
+      if (!nestedUl) {
+        nestedUl = document.createElement("ul");
+        parentLi.appendChild(nestedUl);
+      }
+
+      nestedUl.appendChild(li);
+
+      currentLists[level] = nestedUl;
+
+      Object.keys(currentLists).forEach(function (key) {
+        if (parseInt(key, 10) > level) {
+          delete currentLists[key];
+        }
+      });
+    }
+  });
+
+  toc.appendChild(ul);
+});
+</script>
