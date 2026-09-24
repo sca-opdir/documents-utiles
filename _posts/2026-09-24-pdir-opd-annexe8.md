@@ -1,6 +1,6 @@
 ---
 date: 2026-09-24
-title: OPD
+title: Annexe 8 de l'OPD
 description: Schémas de réduction de l'annexe 8
 categories:
   - Paiements-directs
