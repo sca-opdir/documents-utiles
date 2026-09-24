@@ -76,44 +76,62 @@
 		margin-top: 40px;
 	}
 
-	.sidebar {
-		display: none;
-		padding: 0 20px 0 0;
-		position: absolute;
-    top: 85px;
-		width: 200px;
+.sidebar {
+	display: none;
+	padding: 0 20px 0 0;
+	position: absolute;
+	top: 85px;
+	width: 200px;
 
-		@media #{$mid-point} {
-			display: block;
-		}
+	@media #{$mid-point} {
+		display: block;
+	}
 
-		h3 {
-			margin-top: 0;
-		}
+	h3 {
+		margin-top: 0;
+	}
 
-		ul {
-			padding: 0;
-			margin: 0;
-			list-style: none;
+	ul {
+		padding: 0;
+		margin: 0;
+		list-style: none;
 
-			li {
-				margin: 0 0 15px 0;
-			}
-		}
-
-		a {
-			color: $medium-grey;
-			text-decoration: none;
-			display: block;
-			-webkit-transition: transform .2s ease;
-			line-height: 1.3em;
-
-			&.active {
-				color: $link-color;
-				transform: translateX(10px);
-			}
+		li {
+			margin: 0 0 15px 0;
 		}
 	}
+
+	a {
+		color: $medium-grey;
+		text-decoration: none;
+		display: block;
+		-webkit-transition: transform .2s ease;
+		line-height: 1.3em;
+
+		&.active {
+			color: $link-color;
+			transform: translateX(10px);
+		}
+	}
+
+	// Niveau h2
+	.sidebar-h2 {
+		margin-left: 0;
+		font-weight: 600;
+	}
+
+	// Niveau h3
+	.sidebar-h3 {
+		margin-left: 15px;
+		font-size: .95em;
+	}
+
+	// Niveau h4
+	.sidebar-h4 {
+		margin-left: 30px;
+		font-size: .9em;
+	}
+}
 
 	.tutorial-content {
 		width: 100%;
