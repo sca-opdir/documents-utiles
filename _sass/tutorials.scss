@@ -78,18 +78,18 @@
 
 .sidebar {
 	display: none;
-	padding: 0 20px 0 0;
-	position: absolute;
-	top: 85px;
+	padding: 0 20px 20px 0;
 	width: 200px;
-
-	// Permet de faire défiler la barre latérale
-	max-height: calc(100vh - 100px);
-	overflow-y: auto;
-
 
 	@media #{$mid-point} {
 		display: block;
+
+		position: sticky;
+		top: 20px;
+
+		height: calc(100vh - 40px);
+		overflow-y: auto;
+		overflow-x: hidden;
 	}
 
 	h3 {
