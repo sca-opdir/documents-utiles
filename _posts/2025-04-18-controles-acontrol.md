@@ -16,12 +16,12 @@ type: Document
 <h2 id="rubriques">Liste des rubriques Acontrol</h2>
 
 <ul>
-  <li><a href="../../fichiers/Rubriques agricoles 2026.pdf" target="_blank">PDF Rubriques agricoles 2026 FR</a> / <a href="../../fichiers/Landwirtschaftliche Rubriken 2026.pdf" target="_blank">DE</a></li>
-  <li><a href="../../fichiers/Points de contrôles ciblés 2026.pdf" target="_blank">PDF PCC 2026 FR</a> / <a href="../../fichiers/Fokus-Kontrollpunkte 2026.pdf" target="_blank">DE</a></li>
-  <li><a href="../../fichiers/Rubriques relatives à la protection des animaux 2026.pdf" target="_blank">PDF Rubriques Protection des animaux 2026 FR</a> / <a href="../../fichiers/Tierschutz-Rubriken 2026.pdf" target="_blank">DE</a></li>
-  <li><a href="../../fichiers/Rubriques relatives à la protection des eaux 2026.pdf" target="_blank">PDF Rubriques Protection des eaux 2026 FR</a> / <a href="../../fichiers/Gewässerschutz-Rubriken 2026.pdf" target="_blank">DE</a></li>
-  <li><a href="../../fichiers/Rubriques relatives à la protection de l'air 2026.pdf" target="_blank">PDF Rubriques Protection de l'air 2026 FR</a> / <a href="../../fichiers/Luftreinhalte-Rubriken 2026.pdf" target="_blank">DE</a></li>
-  <li><a href="../../fichiers/Rubriques de contrôles prioritaires 2026.pdf" target="_blank">PDF Rubriques de contrôle prioritaires 2026 FR</a> / <a href="../../fichiers/Schwerpunktkontrollrubriken 2026.pdf" target="_blank">DE</a></li>
+  <li><a href="../../fichiers/Rubriques agricoles 2027.pdf" target="_blank">PDF Rubriques agricoles 2027 FR</a> / <a href="../../fichiers/Landwirtschaftliche Rubriken 2027.pdf" target="_blank">DE</a></li>
+  <li><a href="../../fichiers/Points de contrôles ciblés 2027.pdf" target="_blank">PDF PCC 2027 FR</a> / <a href="../../fichiers/Fokus-Kontrollpunkte 2027.pdf" target="_blank">DE</a></li>
+  <li><a href="../../fichiers/Rubriques relatives à la protection des animaux 2027.pdf" target="_blank">PDF Rubriques Protection des animaux 2027 FR</a> / <a href="../../fichiers/Tierschutz-Rubriken 2027.pdf" target="_blank">DE</a></li>
+  <li><a href="../../fichiers/Rubriques relatives à la protection des eaux 2027.pdf" target="_blank">PDF Rubriques Protection des eaux 2027 FR</a> / <a href="../../fichiers/Gewässerschutz-Rubriken 2027.pdf" target="_blank">DE</a></li>
+  <li><a href="../../fichiers/Rubriques relatives à la protection de l'air 2027.pdf" target="_blank">PDF Rubriques Protection de l'air 2027 FR</a> / <a href="../../fichiers/Luftreinhalte-Rubriken 2027.pdf" target="_blank">DE</a></li>
+  <li><a href="../../fichiers/Rubriques de contrôles prioritaires 2027.pdf" target="_blank">PDF Rubriques de contrôle prioritaires 2027 FR</a> / <a href="../../fichiers/Schwerpunktkontrollrubriken 2027.pdf" target="_blank">DE</a></li>
 </ul>
 
 <h2 id="rubriques">Instructions, manuels et directives</h2>
@@ -66,6 +66,20 @@ type: Document
 
 <h2 id="old">Anciennes versions</h2>
 
+<h3 id="2024">2026</h3>
+
+<ul>
+  <li><a href="../../fichiers/Rubriques agricoles 2026.pdf" target="_blank">PDF Rubriques agricoles 2026 FR</a> / <a href="../../fichiers/Landwirtschaftliche Rubriken 2026.pdf" target="_blank">DE</a></li>
+  <li><a href="../../fichiers/Points de contrôles ciblés 2026.pdf" target="_blank">PDF PCC 2026 FR</a> / <a href="../../fichiers/Fokus-Kontrollpunkte 2026.pdf" target="_blank">DE</a></li>
+  <li><a href="../../fichiers/Rubriques relatives à la protection des animaux 2026.pdf" target="_blank">PDF Rubriques Protection des animaux 2026 FR</a> / <a href="../../fichiers/Tierschutz-Rubriken 2026.pdf" target="_blank">DE</a></li>
+  <li><a href="../../fichiers/Rubriques relatives à la protection des eaux 2026.pdf" target="_blank">PDF Rubriques Protection des eaux 2026 FR</a> / <a href="../../fichiers/Gewässerschutz-Rubriken 2026.pdf" target="_blank">DE</a></li>
+  <li><a href="../../fichiers/Rubriques relatives à la protection de l'air 2026.pdf" target="_blank">PDF Rubriques Protection de l'air 2026 FR</a> / <a href="../../fichiers/Luftreinhalte-Rubriken 2026.pdf" target="_blank">DE</a></li>
+  <li><a href="../../fichiers/Rubriques de contrôles prioritaires 2026.pdf" target="_blank">PDF Rubriques de contrôle prioritaires 2026 FR</a> / <a href="../../fichiers/Schwerpunktkontrollrubriken 2026.pdf" target="_blank">DE</a></li>
+</ul>
+
+
+<h3 id="2024">2025</h3>
+
 <ul>
   <li><a href="../../fichiers/Rubriques agricoles 2025.pdf" target="_blank">PDF Rubriques agricoles 2025 FR</a> / <a href="../../fichiers/Landwirtschaftliche Rubriken 2025.pdf" target="_blank">DE</a></li>
   <li><a href="../../fichiers/Points_de_contrôles_ciblés_2025.pdf" target="_blank">PDF PCC 2025 FR</a> / <a href="../../fichiers/Fokus-Kontrollpunkte_2025.pdf" target="_blank">DE</a></li>
@@ -73,6 +87,11 @@ type: Document
   <li><a href="../../fichiers/Rubriques_relatives_à_la_protection_des_eaux_2025.pdf" target="_blank">PDF Rubriques Protection des eaux 2025 FR</a> / <a href="../../fichiers/Gewässerschutz-Rubriken_2025.pdf" target="_blank">DE</a></li>
   <li><a href="../../fichiers/Rubriques_relatives_à_la_protection_de_l'air_2025.pdf" target="_blank">PDF Rubriques Protection de l'air 2025 FR</a> / <a href="../../fichiers/Luftreinhalte-Rubriken_2025.pdf" target="_blank">DE</a></li>
   <li><a href="../../fichiers/Rubriques_de_contrôles_prioritaires_2025.pdf" target="_blank">PDF Rubriques de contrôle prioritaires 2025 FR</a> / <a href="../../fichiers/Schwerpunktkontrollrubriken_2025.pdf" target="_blank">DE</a></li>
+</ul>
+
+<h3 id="2024">2024</h3>
+
+<ul>
   <li><a href="../../fichiers/Rubriques agricoles 2024.pdf" target="_blank">PDF Rubriques agricoles 2024 FR</a> / <a href="../../fichiers/Landwirtschaftliche Rubriken 2024.pdf" target="_blank">DE</a></li>
   <li><a href="../../fichiers/Points_de_contrôles_ciblés_2024.pdf" target="_blank">PDF PCC 2024 FR</a> / <a href="../../fichiers/Fokus-Kontrollpunkte 2024.pdf" target="_blank">DE</a></li>
   <li><a href="../../fichiers/Rubriques_relatives_à_la_protection_des_animaux_2024.pdf" target="_blank">PDF Rubriques Protection des animaux 2024 FR</a> / <a href="../../fichiers/Tierschutz-Rubriken 2024.pdf" target="_blank">DE</a></li>
