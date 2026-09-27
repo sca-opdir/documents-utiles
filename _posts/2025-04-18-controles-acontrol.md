@@ -1,5 +1,5 @@
 ---
-date: 2025-11-18
+date: 2026-09-27
 title: Acontrol
 categories:
   - Contrôles
