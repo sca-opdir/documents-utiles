@@ -24,6 +24,14 @@ type: Document
   <li><a href="../../fichiers/Rubriques de contrôles prioritaires 2027.pdf" target="_blank">PDF Rubriques de contrôle prioritaires 2027 FR</a> / <a href="../../fichiers/Schwerpunktkontrollrubriken 2027.pdf" target="_blank">DE</a></li>
 </ul>
 
+<h2 id="agricheck">Agricheck</h2>
+
+<ul>
+  <li><a href="https://sca-opdir.github.io/agricheck-vs" target="_blank">Version custom</li>
+    <li><a href="https://agricheck.me" target="_blank">Version officielle</li>
+</ul>
+
+
 <h2 id="rubriques">Instructions, manuels et directives</h2>
 
 <ul>
@@ -62,14 +70,6 @@ type: Document
     <tr><td>19</td><td>Protection de l'air</td><td>OFEV</td></tr>
   </tbody>
 </table>
-
-<h2 id="agricheck">Agricheck</h2>
-
-<ul>
-  <li><a href="https://sca-opdir.github.io/agricheck-vs" target="_blank">Version custom</li>
-    <li><a href="https://agricheck.me" target="_blank">Version officielle</li>
-</ul>
-
 
 
 
