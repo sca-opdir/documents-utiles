@@ -27,8 +27,8 @@ type: Document
 <h2 id="agricheck">Agricheck</h2>
 
 <ul>
-  <li><a href="https://sca-opdir.github.io/agricheck-vs" target="_blank">Version custom</li>
-    <li><a href="https://agricheck.me" target="_blank">Version officielle</li>
+  <li><a href="https://sca-opdir.github.io/agricheck-vs" target="_blank">Version custom</a></li>
+    <li><a href="https://agricheck.me" target="_blank">Version officielle</a></li>
 </ul>
 
 
